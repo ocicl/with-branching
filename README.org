@@ -1,0 +1,10 @@
+* with-branching
+
+An implementation of macroexpand-time conditionalization.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/with-branching.git   |
+| commit  | {"messa  |
+| systems | with-branching |
+|---------+-------------------------------------------|
+
