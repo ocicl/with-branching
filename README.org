@@ -2,9 +2,8 @@
 
 An implementation of macroexpand-time conditionalization.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/phoe/with-branching.git   |
-| commit  | {"messa  |
-| systems | with-branching |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/phoe/with-branching.git |
+| commit  | 53b7d79                                        |
+| systems | with-branching                                 |
+|---------+------------------------------------------------|
