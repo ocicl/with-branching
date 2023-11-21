@@ -4,6 +4,6 @@ An implementation of macroexpand-time conditionalization.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/phoe/with-branching.git |
-| commit  | 53b7d79                                        |
+| commit  | e0f314e                                        |
 | systems | with-branching                                 |
 |---------+------------------------------------------------|
